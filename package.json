@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal website, portfolio, recordings and blog",
+  "main": "index.js",
+  "repository": "https://github.com/live-alchemy/portfolio.git",
+  "author": "live-alchemy (live.alchemy@protonmail.com)",
+  "license": "MIT",
+  "private": false
+}
