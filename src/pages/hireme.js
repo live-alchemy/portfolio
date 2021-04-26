@@ -1,6 +1,4 @@
 import React from "react"
-import { FiLinkedin, FiGithub } from "react-icons/fi"
-import { FaStackOverflow, FaSpotify, FaAngellist } from "react-icons/fa"
 import Layout from "@components/layout"
 
 const offerings = [

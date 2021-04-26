@@ -22,8 +22,18 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: { maxWidth: 720, quality: 100 }
+          }
+        ]
+      },
+    },
     'gatsby-transformer-sharp',
-    'gatsby-transformer-remark',
     'gatsby-plugin-sharp',
     'gatsby-plugin-image',
     {
