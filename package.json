@@ -8,7 +8,9 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "develop": "gatsby develop"
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "bulma": "^0.9.2",
