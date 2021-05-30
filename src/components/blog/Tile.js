@@ -14,7 +14,7 @@ export default function Tile ({ props }) {
             <figure className='image is-4by4'>
               {
                 props.image && props.image.childImageSharp ?
-                  (<GatsbyImage alt='Blog post image' image={props.image.childImageSharp.gatsbyImageData} />) :
+                  (<GatsbyImage imgClassName="tileImage" alt='Blog post image' image={props.image.childImageSharp.gatsbyImageData} />) :
                   (<img src={defaultImage} alt='placeholder' />)
               }
             </figure>

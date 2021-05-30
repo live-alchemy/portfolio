@@ -41,14 +41,13 @@ Fortunately, photographer Emiliano, equipped with a Canon 6D, was sure to grab m
 ![Salmon Berries](./e.jpg)
 > Berry bounty
 
-![Queens](./queens.jpg)
-> The queens return from morning practice by the river
+![Practice](./queens.jpg)
+> Upon queens return from morning practice by the river
 
 ![Opening](./open.jpg)
 
 ![Trekkers](./trekkers.jpg)
 
 ![Grace](./g.jpg)
-> ✨
 
 ![Peace](./peace.jpg)
