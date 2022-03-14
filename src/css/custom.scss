@@ -5,6 +5,44 @@
   margin-top: 0.125em;
 }
 
+.hero {
+  &.is-fullheight-with-navbar {
+    min-height: calc(100vh - 68px);
+    height: calc(100vh - 68px);
+  }
+  .navbar {
+    .navbar-brand {
+      padding: 0 8px;
+    }
+    background-color: whitesmoke;
+    padding: 0;
+    #navbar-menu {
+      background-color: inherit;
+      @media (max-width: 768px) {
+        width: 100vw;
+      }
+    }
+  }
+  h2.landing-subtitle.subtitle {
+    @media (max-width: 768px) {
+      margin-top: -3rem;
+      font-size: 1.12rem;
+      text-align: left;
+    }
+    @media (min-width: 768px) {
+      margin-top: -4rem;
+      margin-left: 4rem;
+    }
+  }
+  .level {
+    @media (max-width: 768px) {
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}
+
 .navbar {
   padding-left: 20px;
   padding-right: 20px;
@@ -25,7 +63,8 @@ img.coverPhoto {
   }
 }
 
-.card-image:last-child img, .card-image .tileImage {
+.card-image:last-child img,
+.card-image .tileImage {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
