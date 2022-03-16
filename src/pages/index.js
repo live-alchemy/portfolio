@@ -16,7 +16,7 @@ function HomePage() {
                 data-aos="fade-left"
                 class="column is-10-mobile is-offset-1-mobile is-10-tablet is-offset-1-tablet is-4-desktop is-offset-1-desktop is-4-widescreen is-offset-1-widescreen is-4-fullhd is-offset-1-fullhd aos-init aos-animate"
               >
-                <figure class="image is-square feather">
+                <figure class="image feather">
                   <img
                     class="is-rounded"
                     alt="meditation posture"
@@ -28,20 +28,12 @@ function HomePage() {
                 data-aos="fade-down"
                 class="column has-text-centered-touch is-12-mobile is-10-tablet is-offset-1-tablet is-5-desktop is-offset-1-desktop is-5-widescreen is-offset-1-widescreen is-5-fullhd is-offset-1-fullhd aos-init aos-animate"
               >
-                <h1 class="titled title is-1">
-                  <img
-                    className="logo-header"
-                    alt="Live Alchemy logo"
-                    src={Logo}
-                  />
-                </h1>
-                <h2 class="subtitled subtitle landing-subtitle">
-                  🔮 Real Time Transformation 🐉
-                </h2>
-                <p class="is-size-5">
-                  I'm <u>Alexander</u>, a <b>web developer</b> and{" "}
-                  <i>modern day alchemist</i>.
-                  <br />
+                <h1 class="title is-3">Hey!</h1>
+                <p class="is-size-4">
+                  I'm <span class="is-size-3">Alexander</span>, a{" "}
+                  <b>web developer</b> and <i>modern day alchemist</i> 🔮
+                </p>
+                <p className="is-size-4">
                   Welcome to my all purpose space on the web 👨‍💻
                 </p>
                 <nav class="level is-mobile mt-4">
@@ -63,7 +55,7 @@ function HomePage() {
                     </div>
                   </div>
                 </nav>
-                <h4 class="title is-5 mt-2">Thanks for stopping in</h4>
+                <h4 class="title is-5 mt-2">Thanks for visiting</h4>
               </div>
             </div>
           </div>

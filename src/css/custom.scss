@@ -1,3 +1,18 @@
+@font-face {
+  font-family: "Avenir Medium";
+  src: url("./fonts/Avenir-Medium.otf");
+}
+
+@font-face {
+  font-family: "Avenir Book";
+  src: url("./fonts/Avenir-Book.otf");
+}
+
+@font-face {
+  font-family: "Avenir Roman";
+  src: url("./fonts/Avenir-Roman.otf");
+}
+
 .social {
   font-size: 1.75em;
   margin-right: 20px;
@@ -6,6 +21,20 @@
 }
 
 .hero {
+  figure.feather {
+    @media (max-width: 1024px) {
+      width: 320px;
+      height: 320px;
+      margin: auto;
+      display: block;
+    }
+    @media (max-width: 769px) {
+      width: 240px;
+      height: 240px;
+      margin: auto;
+      display: block;
+    }
+  }
   &.is-fullheight-with-navbar {
     min-height: calc(100vh - 68px);
     height: calc(100vh - 68px);
@@ -40,6 +69,27 @@
       justify-content: center;
       align-items: center;
     }
+  }
+}
+
+// Events Page
+
+.hero.events.is-info {
+  font-family: "Avenir Medium";
+  background-color: #406ec4;
+}
+
+figure.mtns {
+  border-radius: 10px;
+  @media (max-width: 1024px) {
+    width: 320px;
+    margin: auto;
+    display: block;
+  }
+  @media (max-width: 769px) {
+    width: 240px;
+    margin: auto;
+    display: block;
   }
 }
 
