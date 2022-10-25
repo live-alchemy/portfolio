@@ -1,15 +1,31 @@
 ---
 path: /tr-marble-elk-traverse
-date: '2021-09-01'
-title: 'Marble Elk Traverse'
-subtitle: 'A wild 7 day adventure through the heart of Vancouver Island'
-subject: 'Trip Report'
-tags: ['trip', 'strathcona', 'park', 'traverse', 'mountain', 'hike', 'camping', 'mountaineering', 'adventure', 'travel', 'pacific', 'north', 'west']
-excerpt: 'A wild 7 day adventure through the heart of Vancouver Island'
-author: 'live alchemy'
-class: 'blog'
-image: './marble-elk.jpg'
+date: "2021-09-01"
+title: "Marble Elk Traverse"
+subtitle: "A wild 7 day adventure through the heart of Vancouver Island"
+subject: "Trip Report"
+tags:
+  [
+    "trip",
+    "strathcona",
+    "park",
+    "traverse",
+    "mountain",
+    "hike",
+    "camping",
+    "mountaineering",
+    "adventure",
+    "travel",
+    "pacific",
+    "north",
+    "west",
+  ]
+excerpt: "A wild 7 day adventure through the heart of Vancouver Island"
+author: "live alchemy"
+class: "blog"
+image: "./marble-elk.jpg"
 ---
+
 # The Marble Elk Traverse In Strathcona Park
 
 I love planning trips. The maps, the research, the gear lists, the uniquely inspiring combination of humans and terrain, the chance to explore wild places, all of it totally inspires me. You can imagine my delight when Thomas offered that she'd be into doing a long trip in the wilderness, like a week! Exciting stuff. The longest time I'd spent in true wilderness (no cell service, rugged terrain, route-finding and bears kind of wilderness) was more like 5 days, a week seemed like a great way to stretch that comfortably, but oh where to go!
@@ -36,19 +52,19 @@ Our second day was also quite foggy, but for all that we were still delighted by
 
 ![More Limestone](./limestone-2.jpg)
 
-Our second day also brought on our early challenges with regards navigating heights. We opted to sidehill the last up and down on our route to gain the col between Tibetan and Crystal mountains. This proved pretty hairy as we clung to wet heather and azalea plants in an effort not to skid down to the valley floor. This was particularly intense for Thomas who is not a fan of heights but she was able to process the fear and pull through, as I was to witness them to do time and again on this rather elevated voyage! The flat an homey col (col: a low point between peaks that resembles a saddle) gained at last, we made camp and enjoyed Stroganoff for a late supper.
+Our second day also brought on our early challenges with regards navigating heights. We opted to sidehill the last up and down on our route to gain the col between Tibetan and Crystal mountains. This proved pretty hairy as we clung to wet heather and azalea plants in an effort not to skid down to the valley floor. This was particularly intense for Thomas who is not a fan of heights but she was able to process the fear and pull through, as I was to witness her to do time and again on this rather elevated voyage! The flat an homey col (col: a low point between peaks that resembles a saddle) gained at last, we made camp and enjoyed Stroganoff for a late supper.
 
 ## Day 3: The descent to Scheldrup Lake
 
 ![Down the scree](./beagle-descent.jpg)
 
-The next morning brought better weather, and our first designated hot chocolate day! But lo! more climbing, this time on rock. Some spooky moves and more heroics from Thomas saw us safely up Crystal mountain where we enjoyed a hot chocolate and some peaceful time connecting before once again descending into a col then down the rocky slop to the East short of Scheldrup lake through very faint trail. All in all, I'm just glad we didn't get cliffed out! The camping at the top of the lake was superb, on soft ground and by pristine waters who offered our first chance to enjoy a much needed rinse! Oh, and not to mention it was veggie coconut curry night :D We fell asleep to sweet bird song and rested well.
+The next morning brought better weather, and our first designated hot chocolate day! But lo! more climbing, this time on rock. Some spooky moves and more heroics from Thomas saw us safely up Crystal mountain where we enjoyed a hot chocolate and some peaceful time connecting before once again descending into a col then down the rocky slope to the East shore of Scheldrup lake through very faint trail. All in all, I'm just glad we didn't get cliffed out! The camping at the top of the lake was superb, on soft ground and by pristine waters who offered our first chance to enjoy a much needed rinse! Oh, and not to mention it was veggie coconut curry night :D We fell asleep to sweet bird song and rested well.
 
 ## Day 4: The Golden Eagle
 
 ![Summit](./summit-selfy.jpg)
 
-We woke to fine weather and an easy to follow boot path that wound us up and above the lake and on the Golden Eagle approach trail. This mountain represents this highest point on Vancouver Island and is quite stunning to behold from any angle. Our route did not summit, but rather hugged a Westerly ridge to eventually reach the skirt of the Beagle, who sits just next to and a little bellow the Eagle. After what already felt like a long day, we finished lunch and proceeded to drop to the valley floor once more along a rather wet and sketchy scree slope / rock gully. I have to admit I wasn't a fan of this section as it was fairly hazardous, but we made it through and miraculously picked up the trail and were thus in good enough spirits to actually ascend to 1500m for the second time that day reaching the peaks across the valley where we caught a beautiful sunset and camped for the night sheltered behind some large rocks. The night sky was illuminated brilliantly and we had officially crossed the halfway threshold of our trip safely.
+We woke to fine weather and an easy to follow boot path that wound us up and above the lake and on to the Golden Eagle approach trail. This mountain represents this highest point on Vancouver Island and is quite stunning to behold from any angle. Our route did not summit, but rather hugged a Westerly ridge to eventually reach the skirt of the Beagle, who sits just next to and a little bellow the Eagle. After what already felt like a long day, we finished lunch and proceeded to drop to the valley floor once more along a rather wet and sketchy scree slope / rock gully. I have to admit I wasn't a fan of this section as it was fairly hazardous, but we made it through and miraculously picked up the trail and were thus in good enough spirits to actually ascend to 1500m for the second time that day reaching the peaks across the valley where we caught a beautiful sunset and camped for the night sheltered behind some large rocks. The night sky was illuminated brilliantly and we had officially crossed the halfway threshold of our trip safely.
 
 ![Sunset](./sunset.jpg)
 
@@ -64,13 +80,13 @@ Another fine weather day saw us ramble along the ridge we'd ascended the day bef
 
 ![Lakeside](./wheaton.jpg)
 
-The camping at bear lake was again exceptional, and afforded us the chance to take a dip, though we woke to rain! After laying in bed for an hour listening to the drops fall, we seized our chance at a break to hastily break camp, make Rasa and head out. The trail was ambiguous, however, and we soon found ourselves on a wet bushwhack along the lake that eventually had us make for a dried up creek bed to ascend up to a pool that had a very clear boot trail on its south shore that brought us right to the edge of the large lake due south of our objective, Elk Pass. It was at this point that we saw a black bear with her two cubs in the not so distant distance! They were so cute and sweet moving along the screen slopes munching on berries. We observed them for a time, announced our presence loudly and chose a route up the scree that would give them a wide berth.
+The camping at bear lake was again exceptional, and afforded us the chance to take a dip, though we woke to rain! After laying in bed for an hour listening to the drops fall, we seized a chance to hastily break camp, make Rasa and head out. The trail was ambiguous, however, and we soon found ourselves on a wet bushwhack along the lake that eventually had us make for a dried up creek bed to ascend up to a pool that had a very clear boot trail on its south shore that brought us right to the edge of the large lake due south of our objective, Elk Pass. It was at this point that we saw a black bear with her two cubs in the not so distant distance! They were so cute and sweet moving along the scree slopes munching on berries. We observed them for a time, announced our presence loudly and chose a route up the scree that would give them a wide berth.
 
-While I think that side of things was a good call, I cannot speak to the fact that in my hurry to keep moving, I did not open my compass and so failed to realize that our chosen ascent was in fact taking us East instead of North!! While it looked like the easiest way through the various peaks that lay before us, our route actually took us to the wrong col entirely and my spidey senses were tingling as soon as we gained the summit and looked down to one large body of water, when I expected two smalls pools connected by the the Elk River. I braved turning on my phone to consult the GPS and sure enough, we had come up the wrong way.
+While I think that side of things was a good call, I cannot speak to the fact that in my hurry to keep moving, I did not open my compass and so failed to realize that our chosen ascent was in fact taking us East instead of North!! While it looked like the easiest way through the various peaks that lay before us, our route actually took us to the wrong col entirely and my spidey senses were tingling as soon as we gained the summit and looked down to one large body of water, when I expected two smalls pools connected by Elk River. I braved turning on my phone to consult the GPS and sure enough, we had come up the wrong way, and now the phone was dead.
 
-A hasty lunch in the rain later, we opted to go up rather than down and began picking out our route over the mountain that lay between us and elk pass. Visibility was negligible, so we relied odd my compass to navigate and our eyes to choose the path of least resistance before us. For all that, we definitely climbed some wet moss covered granite and scrambled up some heather gullies before summiting and then descending down to what was most definitely Elk Pass this time, as evidenced by cairns and the presence of the aforementioned small bodies of water. Phew! Had we simply proceeded, we would literally have ended up Spirit knows where following some unnamed river East for who knows how long before realizing we were profoundly lost!
+A hasty lunch in the rain later, we opted to go up rather than down and began picking out our route over the mountain that lay between us and elk pass. Visibility was negligible, so we relied on my compass to navigate and our eyes to choose the path of least resistance before us. For all that, we definitely climbed some wet moss covered granite and scrambled up some heather gullies before summiting and then descending down to what was most definitely Elk Pass this time, as evidenced by cairns and the presence of the aforementioned small bodies of water. Phew! Had we simply proceeded, we would literally have ended up Spirit knows where following some unnamed river East for who knows how long before realizing we were profoundly lost!
 
-Instead, we picked up a cairn trail that lead us along the head waters of the Elk River and while exhaustion was starting to settle in, we managed to keep ourselves together for the many long hours of wet hiking that were to follow. We breezed, soddenly, through one old growth ringed camp site (Hemlock camp on some maps) in favour of pressing for the Elk River Gravel Bar camp site that would put us definitively back on the map with just an easy hike out to our vehicle the following day. We arrived around 7pm to a gentle reintroduction of humans, the first seen since day one of our trip!
+Instead, we picked up a cairn trail that lead us along the head waters of the Elk River and, while exhaustion was starting to settle in, we managed to keep ourselves together for the many long hours of wet hiking that were to follow. We breezed, soddenly, through one old growth ringed camp site (Hemlock camp on some maps) in favour of pressing for the Elk River Gravel Bar camp site that would put us definitively back on the map with just an easy hike out to our vehicle the following day. We arrived around 7pm to a gentle reintroduction of humans, the first seen since day one of our trip!
 
 ## Day 7: Ramen bound
 

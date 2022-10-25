@@ -71,6 +71,7 @@ function Header() {
             <div className="navbar-item">
               <div className="buttons">
                 <Link to="/music" className="button is-light">
+                  <span className="pr-1">Music</span>
                   <span className="icon">
                     <FiHeadphones />
                   </span>

@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "gatsby";
 import feather from "@images/feather.jpg";
 import Header from "@components/layout/Header";
-import Logo from "@images/live-alchemy-logo.png";
 
 function HomePage() {
   return (
@@ -28,12 +27,13 @@ function HomePage() {
                 data-aos="fade-down"
                 class="column has-text-centered-touch is-12-mobile is-10-tablet is-offset-1-tablet is-5-desktop is-offset-1-desktop is-5-widescreen is-offset-1-widescreen is-5-fullhd is-offset-1-fullhd aos-init aos-animate"
               >
-                <h1 class="title is-3">Hey!</h1>
+                <h1 class="title is-3">Howdy!</h1>
                 <p class="is-size-4">
-                  I'm <span class="is-size-3">Alexander</span>, a{" "}
-                  <b>web developer</b> and <i>modern day alchemist</i> 🔮
+                  I'm <span class="is-size-3">Alexander</span>,{" "}
+                  <b>web developer</b>, <u>horseman</u> and{" "}
+                  <i>modern day alchemist</i> 🔮
                 </p>
-                <p className="is-size-4">
+                <p className="is-size-4 mt-1">
                   Welcome to my all purpose space on the web 👨‍💻
                 </p>
                 <nav class="level is-mobile mt-4">
