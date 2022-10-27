@@ -66,7 +66,7 @@ I had signed on with Spatsizi River Outfitters, formerly the Collingwood Brother
 
 The ride got off to a rocky start. Our packhorse rolled his pack as soon as we were out the gate, and the fellow who drove us came trotting up behind brandishing my axe as it had fallen off my horse instantly. We repacked the horse, I secured the axe and we departed in earnest only to have the chainsaw fail to start at the second tree we found laying across the trail. Having dealt with a number of chainsaw failures that Winter, I felt this was at least predictable and Jamie and I were able to diagnose a flooded carb and patiently allowed it to drain out while hacking at tree uselessly with my axe. We eventually got the saw running again and were off, but no sooner had we completed perhaps 15% of the trail in did the saw get caught under some trees and was utterly ruined, the bar bent to a full 90 degrees away from the handle. Oh well, good thing I had that axe, a last minute purchase in Smithers.
 
-We arrived at the first campsite around 2am, and I was beginning to appreciate the emergence of a theme. The following morning, we noticed that Jamie no longer had his InReach device, but my intuition suggested a quick trot back down the trail and I found it after about 10 minutes at a light jog! We rode on, the pack horse rolling once more and gear tumbling off our saddles again. When we finally got sorted out and settled on our routine for tying the diamond (a hitch that is essential for keeping a packhorse secured), we made decent time, even without the help of the gasoline powered chainsaw. This is where the trail gets rough. Numerous hours of bogland lay before us and so we trudged on and on until we finally made the second camp at Cullivan Creek, managing to unstuck a horse hoof without injury. With a couple hours of daylight left, we opted to ride on and press for Bug, arriving under the auspices of twilight. Exhausted, we noted that a grizzly bear had utterly destroyed the cook house but we opted to leave that as it lay till the morrow.
+We arrived at the first campsite, Cache Camp, around 2am, and I was beginning to discern a theme to this line of work. The following morning, we noticed that Jamie no longer had his InReach device, but my intuition suggested a quick trot back down the trail and I found it after about 10 minutes at a light jog! We rode on, the pack horse rolling once more and gear tumbling off our saddles again. When we finally got sorted out and settled on our routine for tying the diamond (a hitch that is essential for keeping a packhorse secured), we made decent time, even without the help of the gasoline powered chainsaw. This is where the trail gets rough. Numerous hours of bogland lay before us and so we trudged on and on until we finally made the second camp at Cullivan Creek, managing to unstuck a horse hoof without injury. With a couple hours of daylight left, we opted to ride on and press for Bug, arriving under the auspices of twilight. Exhausted, we noted that a grizzly bear had utterly destroyed the cook house but we opted to leave that as it lay till the morrow.
 
 On the morrow, a float plane landed on the dock and insisted on returning Jamie to Mountain Shadow to lead a group of staff and clients, including Glen Stewart, back down the freshly cut trail, this time in a single day. The plane also deposited the camp cook, Gwen, whose task it would be to clean the cookhouse. I assisted by fixing the water line and doing what little I could given my exhausted and sore condition, hardly daring to imagine what Jamie was going through. Gwen was able to get Shepherd’s Pie ready and had it warm for the groups arrival at, you guessed it, 2 in the morning. Needless to say, they were a little shell shocked by what had just happened and I was to hear a detailed account over the next few days of how chaotic it had been to ride that endless trail in with 43 horses, including 7 colts who all got loose and failed to make it to base camp, in a single afternoon.
 
@@ -175,11 +175,11 @@ It took us a full two days of being mostly lost to find the camp at plateau lake
 
 ## The Trail Out
 
-Upon our return, we began to make ready for our departure from the area, one horseback with most of the herd. Leon and I were reinforced by a pair of cowboys from Alberta and a horticulturist from Australia. We had over 30 horses to lead out, including those 3 willful colts who were a little better trained now and the plan was to do the trip over two days. We made strings of who we could and set out with me at the head on Thunder and Leon bringing up the rear. The cowboys egged on and wrangled up the herd as needed. Before we’d made it two hours, just about all of our carefully selected strings had come apart and we were proceeding pêle mêle down the trail, loose horses running around all over all generally headed in the right direction. The horses, fortunately, were all very keen to head to their Winter pasture and so we didn’t really have to worry about them. We took whatever opportunity we could to tie flopping lead ropes and mostly just held on and tried to keep the train in some semblance of order with a rider at the front to ensure it didn’t turn into a full on blitzkrieg. All things considered, we may as well have had everyone loose and just ran the trail out. At this time of year, the bog was much drier and easier to travel and overnighting at Cache camp was pretty useless. But, we made it, in spite of our pack horse blowing up within 20 minutes no day two, cementing me near the back of the pack as I redeemed my initial packing effort with a fresh diamond. I spent at least an hour or two worried about some pack boxes that I lost track of, but we found them on the trail eventually and so my fancy German boots and spotting scope were not lost after all. Shout outs to Adrian for catching a horse with a pack saddle, turning him around, and enabling us to pack those boxes out. And shout out to Joe the injured horse! In spite of a season of rest, he was still looking very swollen and in need of vet care, but he trotted his way out with the rest admirably. This would mark the last time I would gallop with a gang of horses and for me this represents one of the peak experiences of my time out on the Spatsizi, there’s just nothing like the feeling of riding a wave of will and strength. It’s kind of like surfing, with perhaps a higher consequence fall! To that end, I only fell from the saddle twice all season, and never injured myself, so I’m very grateful for that. Bizarrely, the worst thing that happened, besides a very strained left ankle, was a mysterious and enormous zit that appeared on my jam at the end of the trip. It was painful and gnarly but mercifully sorted itself out with time. Weird! I blame that Mars bar.
+Upon our return, we began to make ready for our departure from the area on horseback, with most of the herd. Leon and I were reinforced by a pair of cowboys from Alberta and a horticulturist from Australia. We had over 30 horses to lead out, including those 3 willful colts who were a little better trained now and the plan was to do the trip over two days. We made strings of who we could and set out with me at the helm on Thunder with Leon bringing up the rear. The cowboys egged on and wrangled up the herd as needed. Before we’d made it two hours, just about all of our carefully selected strings had come apart and we were proceeding pêle mêle down the trail, loose horses running around all over, all generally headed in the right direction. The horses, fortunately, were all very keen to head to their Winter pasture and so we didn’t really have to worry about them. We took whatever opportunity we could to tie flopping lead ropes and mostly just held on and tried to keep the train in some semblance of order with a rider at the front to ensure it didn’t turn into a full on blitzkrieg. All things considered, we may as well have had everyone loose and just ran the trail out. At this time of year, the bog was much drier and easier to travel and overnighting at Cache camp was pretty useless. But, we made it, in spite of our pack horse blowing up within 20 minutes no day two, cementing me near the back of the pack as I redeemed my initial packing effort with a fresh diamond. I spent at least an hour or two worried about some pack boxes that I lost track of, but we found them on the trail eventually and so my fancy German boots and spotting scope were not lost after all. Shout outs to Adrian for catching a horse with a pack saddle, turning him around, and enabling us to pack those boxes out. And shout out to Joe the injured horse! In spite of a season of rest, he was still looking very swollen and in need of vet care, but he trotted his way out with the rest admirably. This would mark the last time I would gallop with a gang of horses and for me this represents one of the peak experiences of my time out on the Spatsizi, there’s just nothing like the feeling of riding a wave of will and strength, such surrender. It’s kind of like surfing, with perhaps a higher consequence fall! To that end, I only fell from the saddle twice all season, and never injured myself, so I’m very grateful for that. Bizarrely, the worst thing that happened, besides a very strained left ankle from hours in the stirrups, was a mysterious and enormous zit that appeared on my jaw at the end of the trip. It was painful and gnarly but mercifully sorted itself out with time. Weird! I blame that Mars bar.
 
-I got back to Mountain Shadow and was dispatched to de-shoe horses before 9am the following morning. We spent the day doing that, a group of 4 remove all shoes from a total of 30 horses. Duly exhausted, we made plans to begone at 5am the following morning and so I found myself back at my truck on the ranch in Smithers on Thanksgiving day. I would miss the feast that took place the evening prior at Anderson Lake, and so I made my way leisurely down highway 97, stopping in at Leon’s farm near Quesnel and enjoying oth delicious home cooked food and the hospitable and kind company of his brother, mother and sister.
+I got back to Mountain Shadow and was dispatched to de-shoe horses at 9am the following morning. We spent the day doing that, a group of 4 removing all shoes from a total of 30 horses. Duly exhausted, we made plans to begone at 5am the following morning least we get roped into further labours and so I found myself back at my truck on the ranch in Smithers on Thanksgiving day. I would miss the feast that took place the evening prior at Anderson Lake, and so I made my way leisurely down highway 97, stopping in at Leon’s farm near Quesnel and enjoying both delicious home cooked food and the hospitable and kind company of his family.
 
-Making my way slowly back to the Comox Valley where I’d agreed to housesit for a friend, I find myself with the time and space to reflect and process this spectacular journey. Oftentimes, I find myself feeling as though I’d just spent the Summer in the military. The contrast between the very intentional and warm life of the communities I frequent on the coast and the results driven “hurry up and wait” attitude of the outfit could not be starker. It was meaningful for me to connect with my co-workers where possible, but ultimately my journey was largely about my responsibility towards and connections with the horses. I’m very grateful to those powerful and sensitive beings and trust I can continue to apprentice myself to their ways and care.
+Having made my way slowly back to the Comox Valley where I’d agreed to housesit for a friend, I find myself with the time and space to reflect and process this spectacular journey. Oftentimes, I find myself feeling as though I’d just spent the Summer in the military. The contrast between the very intentional and warm life of the communities I frequent on the coast and the results driven “hurry up and wait” attitude of the outfit could not be starker. It was meaningful for me to connect with my co-workers where possible, but ultimately my journey was largely about my responsibility towards, and connections with, the horses. I’m very grateful to those powerful and sensitive beings and trust I can continue to apprentice myself to their ways and care.
 
 I thank you for reading!
 
@@ -188,3 +188,59 @@ I thank you for reading!
 </p>
 
 Herein follows a list of supplies I recommend for anyone looking to do this work in the future for reference:
+
+- Gum Boots, insulated, Muck brand
+- Gore-tex lined leather boots, Meindly recommened, higher than ankle also ideal
+- Helly Hansen Helox rain gear, coat and pants
+- Gaiters
+- Crocs/sandals
+- Thermarest (+repair kit) or bed roll
+- Warm sleeping, -9 minimum
+- Hunting backpack ~50L or more
+- Book, journal, pen
+- Trail Axe and saddle fastener
+- Folding saw, pruning saw, saddle fastener
+- Lighters
+- Floss, toothbrush, toothpaste
+- Soap
+- Towel
+- Water bottle, at least 2L
+- Leather work gloves
+- Leather waterproofing treatment, good for gloves and boots
+- Warm mits for riding
+- Knives + sharpening stone
+- Brim hat
+- Puffy jacket
+- Bandana + buff
+- Synthetic layers as well as wool
+- Headlamp + spare set of batteries
+- 1st aid kit
+- Space blanket
+- Storm proof matches/fire starter
+- Day pack
+- Binoculars, spotting scope optional imo
+- 30 gauge lever action rifle + saddle scabbard
+- Titanium spork
+
+Additionally, if you like to eat well or are particular, bring as much food as you! I also like to drink tea so a thermos goes a long way.
+Beyond that, I also packed my own butane and cook stove so that I was independant, this was nice to bring along on cold days too for a warm drink on the trail.
+Lastly, I always had my own ultralight tent or bivy and I found that to be an asset on occasion, but the outfit had numerous tents so I didn't need to have it.
+An ultralight tarp would not be amiss for emergency shelter
+
+And for real, lastly, this is a loose transcription of a poster in the wrangler bunk house at bug lake, I found it to be pretty spot on:
+
+## WANTED: Wrangler at Bug Lake
+
+### NO EXPERIENCE REQUIRED
+
+- Must be able to survice sub zero temperatures
+- Must enjoy working 23 hours per day
+- Must thrive on little to no sleep and have excellent night vision
+- Capable of surviving on little food of negligible nutrition
+- Excellent horse catching skills an asset
+- Inability to complain is mandatory
+- Maintain an agreeable disposition at all times
+- Does dishes without being asked every night
+- Be ready to change plans at a moments notice
+- Little concern for personal welfare desired
+- Rappeling and climbing skills are very welcome
