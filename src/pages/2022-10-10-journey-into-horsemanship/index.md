@@ -58,9 +58,19 @@ Here are some photos from our time together:
 
 With that period of learning complete, I was ready to head into the vision quest. 10 days later, I tumbled down the Sea to Sky highway landing in Squamish. Admittedly, the world seemed a strange place. After 4 days in prayer and ceremony, without food or water and sleeping under the sky, the delights and trinkets of civilization were garishly irresistible and, while I still enjoyed climbing, I was dogged by a feeling of having gone backwards in time, so I began to write to outfitters to see if anyone would have me. As it turns out, some seemed interested. My first bite lead me to the realization that I was ready to hop on a plane to Whitehorse at a moment’s notice, and when the second opportunity started knocking in earnest, I decided to go for it, in spite of an offer to house sit in Squamish, a rare and choice luxury. I stopped in at the Squamish men’s circle, was duly blessed by my brothers there and started the trip North that night, spying a wolf on the side of the highway on my way out, I regarded this as a stellar omen portending favourably on my time in the wilds of Northern BC.
 
+<p align="center">
+  <img src="./map.png">
+  Spatsizi Wilderness Area
+</p>
+
 ## Now, a wrangler
 
 I had signed on with Spatsizi River Outfitters, formerly the Collingwood Brothers outfit, lately purchased by a rancher from Quesnel, with the understanding that I would be able to complete a trip to Montreal to see my Father on his 75th birthday in mid August, and that I could spend most of July attending the horsemanship workshops being held at base camp by a famous horse trainer named Glen Stewart. I arrived at Reg Collingwood’s ranch in Smithers on time, was regarded with uncertainty (my main of unruly curls surely playing its part in this perception) and was tasked with oiling saddles until my ride showed up. Eventually, that is to say at around 8pm the following day, I was collected and immediately tasked with driving a huge truck pulling a horse trailer on an 8 hour drive. At 2am, my companion Jamie and I pulled into a rest area to get some sleep. I crawled into the back seat where I lay down and eventually caught a few hours rest. In the driver seat, I don’t believe Jamie was as fortunate. At daybreak we forged on to the town of Iskut, some 4 hours up the Cassiar highway and reported to the staging area known as Mountain Shadow, an RV park also owned by the outfit. We offloaded the horses at a large corral and were prepared Kraft dinner for lunch. I made myself some eggs instead, as yet under the delusion that I would maintain my dietary standards. Jamie, who is 18, now the most experienced person on staff on account of having done this the season prior, and I finally got rolling to cut the trail to the hunting unit’s first base camp at around 5pm. Known as Bug lake internally and as “Eaglenest Camp” in the marketing materials, we were told it was a two day ride on easy trail.
+
+<p align="center">
+  <img src="./map2.png">
+  Park map
+</p>
 
 ## Cutting the Trail
 
