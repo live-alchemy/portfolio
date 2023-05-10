@@ -1,20 +1,33 @@
 ---
 path: /tr-desolation-sound
-date: '2021-05-21'
-title: 'Desolation Sound by Kayak'
-subtitle: 'Paddling the waters of Desolation Sound'
-subject: 'Trip Report'
-tags: ['trip', 'kayaking', 'overnight', 'camping', 'paddling', 'marine', 'adventure', 'travel', 'pacific', 'ocean']
-excerpt: 'A magical journey through paddler paradise'
-author: 'live alchemy'
-class: 'blog'
-image: './Homeward.jpg'
+date: "2021-05-21"
+title: "Desolation Sound by Kayak"
+subtitle: "Paddling the waters of Desolation Sound"
+subject: "Trip Report"
+tags:
+  [
+    "trip",
+    "kayaking",
+    "overnight",
+    "camping",
+    "paddling",
+    "marine",
+    "adventure",
+    "travel",
+    "pacific",
+    "ocean",
+  ]
+excerpt: "A mythical journey through paddler paradise"
+author: "live alchemy"
+class: "blog"
+image: "./Homeward.jpg"
 ---
+
 # Desolation Sound
 
 This was my first time ocean paddling... ever! And first time on a multi-day kayak adventure. That said, it's my new favourite thing! As I continue to live a physical existance, my body has some messages for me and one of those is that my knees are not wild about going up and down mountains :/ So the idea of a traveling without the knee knackering ups and downs of backpacking has become increasinly appealing! Thus, kayak touring!
 
-I began emailing around to see what our options were for rentals and settled on Cortes Kayaks and a departure from Squirrel Cove off the West side of Cortes island with an eye to make it to Desolation Sound Marine Park of which I'd heard many wonderful things. The emails back were smooth and made it easy, the rates reasonable and so the plan was made to rent a double kayak for two nights and see how far we could get. Oh, and I'm traveling with one Thomas Basil these days, a mystical star being and an altogether lovely travel companion, she even let me include her in some photos! Here is our first stop, arriving after about an hour and a half of paddling from Squirrel Cove after an hour lesson on how to right a tipped kayak!
+I began emailing around to see what our options were for rentals and settled on Cortes Kayaks and a departure from Squirrel Cove off the East side of Cortes island with an eye to make it to Desolation Sound Marine Park of which I'd heard many wonderful things. The emails back were smooth and made it easy, the rates reasonable and so the plan was set to rent a double kayak for two nights and see how far we could get. Oh, and I'm traveling with one Thomas Basil these days, a star being and an altogether lovely travel companion, she even let me include her in some photos! Here is our first stop, arriving after about an hour and a half of paddling from Squirrel Cove after an hour lesson on how to right a tipped kayak!
 
 ![Martin Island](./MartinIsland.jpg)
 
@@ -36,7 +49,7 @@ The next day we took an alternate route back to the Curme islands and landed aro
 
 ![Whale communing](./WhaleSong.jpg)
 
-Many birds including various eagles 🦅  and a number of hummingbirds feasting on honeysuckle were to be observed over the course of the journey and we even saw a sea lion up close! Like really close, in fact, we think we startled them and upon such a close look I understood fully why they are called sea lions! Big heads! Big creatures, glad they didn't decide we looked tasty!
+Many birds including various eagles 🦅 and a number of hummingbirds feasting on honeysuckle were to be observed over the course of the journey and we even saw a sea lion up close! Like really close, in fact, we think we startled them and upon such a close look I understood fully why they are called sea lions! Big heads! Big creatures, glad they didn't decide we looked tasty!
 
 ![Curme Island](./Curmes.jpg)
 
@@ -46,7 +59,7 @@ Our last morning we left early as we were scheduled to land back at Squirrel Cov
 
 ![More fun times](./HappySun.jpg)
 
-I enjoyed this trip so much that we are already talking about our next paddling trip to the Broken Islands group outside of Ucluelet! So stoked !! I 💙  paddling
+I enjoyed this trip so much that we are already talking about our next paddling trip to the Broken Islands group outside of Ucluelet! So stoked !! I 💙 paddling
 
 ![Nearly home](./Return.jpg)
 

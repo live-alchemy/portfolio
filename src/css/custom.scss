@@ -131,3 +131,39 @@ img.coverPhoto {
     justify-content: center;
   }
 }
+
+// articles
+
+.image-gallery {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  @media (max-width: 768px) {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+.gif {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 1rem;
+  img {
+    width: 900px;
+    margin: auto;
+    @media (max-width: 768px) {
+      width: 600px;
+    }
+  }
+  em {
+    text-align: center;
+    display: block;
+  }
+}
+
+span.gatsby-resp-image-wrapper + em {
+  display: block;
+  text-align: center;
+  padding-top: 5px;
+}
