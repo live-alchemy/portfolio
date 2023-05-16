@@ -49,7 +49,7 @@ function HomePage() {
                       </Link>
                     </div>
                     <div class="level-item">
-                      <Link to="/event">
+                      <Link to="/mens-event">
                         <button class="button">Men's work</button>
                       </Link>
                     </div>
