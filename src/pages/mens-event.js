@@ -52,8 +52,9 @@ function Event() {
               >
                 <h1 className="title is-1">Men's Work Weekend</h1>
                 <h3 className="title is-3">October 27-29th, 2023</h3>
+                <h4 className="title is-4">$250, potluck style meals</h4>
                 <p className="is-size-5">On the shores of Anderson Lake, BC</p>
-                <p className="mt-4">
+                <p className="mt-5">
                   <a href="#schedule" className="button is-success mr-2">
                     Schedule
                   </a>
@@ -177,12 +178,13 @@ function Event() {
                   <input
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
+                    form="contact"
+                    name="email"
                     className={`input ${
-                      !emailValid && didSubmit ? null : "is-danger"
+                      !emailValid && didSubmit ? "is-danger" : null
                     }`}
                     type="email"
                     placeholder="Email"
-                    name="email"
                   />
                 </div>
                 {!emailValid && didSubmit ? (
