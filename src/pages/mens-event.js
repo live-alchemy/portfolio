@@ -59,7 +59,6 @@ function Event() {
                   <u>Arrival</u>: get settled and share intentions for the days
                   ahead
                 </p>
-                <div style={{ height: "64px" }} />
                 <p>
                   <b>5-7pm</b> Arrive and setup camp
                 </p>
@@ -100,7 +99,7 @@ function Event() {
               <div className="column">
                 <h4 className="title is-3">Sunday</h4>
                 <p className="pr-1 mb-2 is-size-5">
-                  <u>Sage</u>: Invitation to fast, reflect and ground
+                  <u>Sage</u>: fast, reflect & ground
                 </p>
                 <p>
                   <b>8am</b> Cold water dunk and Qi Gong on the beach
@@ -128,7 +127,7 @@ function Event() {
             <div className="columns">
               <div className="column is-12 has-text-centered py-6">
                 <a href="#register" className="button is-danger">
-                  Register
+                  Register Now
                 </a>
               </div>
             </div>
@@ -151,9 +150,12 @@ function Event() {
             </p>
             <p className="mb-4">
               Choose the pricing option that works for you. If money is not
-              available, there are two seats that can be made available for
-              those who want to assist in other ways, reach out:{" "}
-              <a className="is-underlined" href="mailto:live.alchemy@proton.me">
+              available, a seat can be made available for one who wants to
+              assist with logistics, reach out:{" "}
+              <a
+                className="is-underlined has-text-info"
+                href="mailto:live.alchemy@proton.me"
+              >
                 live.alchemy@proton.me
               </a>
             </p>
@@ -163,6 +165,7 @@ function Event() {
                   <h4 className="title is-3 has-text-black">
                     Ballin on a budget
                   </h4>
+                  <hr />
                   <a
                     href="https://buy.stripe.com/dR6aHhfO66bU34seUU"
                     target="_blank"
@@ -176,6 +179,7 @@ function Event() {
               <div className="column">
                 <div className="box has-text-centered py-5">
                   <h4 className="title is-3 has-text-black">The middle path</h4>
+                  <hr />
                   <a
                     href="https://buy.stripe.com/6oEg1BeK21VE48wdQR"
                     target="_blank"
@@ -189,6 +193,7 @@ function Event() {
               <div className="column">
                 <div className="box has-text-centered py-5">
                   <h4 className="title is-3 has-text-black">Flex</h4>
+                  <hr />
                   <a
                     href="https://buy.stripe.com/dR63ePdFY6bUfRe28a"
                     target="_blank"
@@ -204,7 +209,10 @@ function Event() {
               <div className="column is-12">
                 <p className="has-text-centered">
                   Need to pay by another method? Let me know:{" "}
-                  <a href="mailto:live.alchemy@proton.me">
+                  <a
+                    className="is-underlined has-text-info"
+                    href="mailto:live.alchemy@proton.me"
+                  >
                     live.alchemy@proton.me
                   </a>
                 </p>
@@ -250,7 +258,7 @@ function Event() {
                     conscious brotherhood to vitalize, awaken and activate the
                     sacred masculine in each and every man.
                   </p>
-                  <p className="is-size-6 mt-2">
+                  <p className="is-size-6 mt-5">
                     <Link to="/blog">
                       <button class="button">Writings</button>
                     </Link>
