@@ -45,11 +45,8 @@ function Event() {
           </div>
         </div>
       </section>
-      <section
-        className="hero is-medium has-background-white-ter"
-        id="schedule"
-      >
-        <div className="hero-body">
+      <section className="hero is-medium has-background-white-ter">
+        <div className="hero-body" id="schedule">
           <div className="container">
             <h2 className="title is-2">Schedule</h2>
             <hr className="has-background-black-bis" />
@@ -133,11 +130,9 @@ function Event() {
         </div>
       </section>
       <section className="hero is-primary is-medium has-text-black">
-        <div className="hero-body">
+        <div className="hero-body" id="register">
           <div className="container">
-            <h2 className="title has-text-black is-2" id="register">
-              Registration
-            </h2>
+            <h2 className="title has-text-black is-2">Registration</h2>
             <hr className="has-background-black-bis" />
             <p className="title has-text-black is-4">
               Secure your spot. This container will hold 8 men in total.
@@ -219,11 +214,9 @@ function Event() {
         </div>
       </section>
       <section className="hero is-warning is-medium">
-        <div className="hero-body">
+        <div className="hero-body" id="facilitator">
           <div className="container">
-            <h2 className="title is-2" id="register">
-              Facilitator
-            </h2>
+            <h2 className="title is-2">Facilitator</h2>
             <hr className="has-background-black-bis" />
             <div class="container">
               <div class="columns is-multiline is-vcentered">
@@ -278,11 +271,9 @@ function Event() {
         </div>
       </section>
       <section className="hero is-link is-medium">
-        <div className="hero-body">
+        <div className="hero-body" id="location">
           <div className="container">
-            <h2 className="title is-2" id="register">
-              Location
-            </h2>
+            <h2 className="title is-2">Location</h2>
             <hr />
             <div class="container">
               <div class="columns is-multiline is-vcentered">
@@ -305,7 +296,7 @@ function Event() {
                 >
                   <h1 class="title is-3">Anderson Lake, BC</h1>
                   <p class="is-size-4">A rugged and wild setting</p>
-                  <p className="is-size-5 mt-1">
+                  <p className="is-size-5 mt-2">
                     Location specifics will be sent after registration and car
                     pooling will be arranged. Budget roughly 4 hours from
                     Vancouver and expect a rugged gravel road and a steep
@@ -321,6 +312,62 @@ function Event() {
                       <span>Open in Maps</span>
                     </a>
                   </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className="hero is-success">
+        <div className="hero-body">
+          <div className="container">
+            <h2 className="title is-2" id="register">
+              Registration
+            </h2>
+            <hr />
+            <div className="columns py-4">
+              <div className="column">
+                <div className="box has-text-centered py-5">
+                  <h4 className="title is-3 has-text-black">
+                    Ballin on a budget
+                  </h4>
+                  <hr />
+                  <a
+                    href="https://buy.stripe.com/dR6aHhfO66bU34seUU"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="button is-secondary"
+                  >
+                    Register for $350
+                  </a>
+                </div>
+              </div>
+              <div className="column">
+                <div className="box has-text-centered py-5">
+                  <h4 className="title is-3 has-text-black">The middle path</h4>
+                  <hr />
+                  <a
+                    href="https://buy.stripe.com/6oEg1BeK21VE48wdQR"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="button is-primary"
+                  >
+                    Register for $425
+                  </a>
+                </div>
+              </div>
+              <div className="column">
+                <div className="box has-text-centered py-5">
+                  <h4 className="title is-3 has-text-black">Flex</h4>
+                  <hr />
+                  <a
+                    href="https://buy.stripe.com/dR63ePdFY6bUfRe28a"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="button is-warning"
+                  >
+                    Register for $500
+                  </a>
                 </div>
               </div>
             </div>
