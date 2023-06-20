@@ -148,10 +148,11 @@ function Event() {
             <p className="title has-text-black is-6">
               Price covers venue rental, sauna use, accomodations and food.
             </p>
-            <p className="mb-4">
-              Choose the pricing option that works for you. If money is not
-              available, a seat can be made available for one who wants to
-              assist with logistics, reach out:{" "}
+            <p className="mb-4 is-size-7">
+              Pricing is sliding scale, choose the amount you're able and
+              willing to invest at this time. If money is not available, a seat
+              can be made available for one who wants to assist with logistics,
+              reach out:{" "}
               <a
                 className="is-underlined has-text-info"
                 href="mailto:live.alchemy@proton.me"
