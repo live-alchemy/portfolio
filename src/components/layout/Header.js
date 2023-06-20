@@ -58,7 +58,7 @@ function Header() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="sgnl://signal.me/#p/+7786769556"
+                  href="sgnl://signal.me/#p/+17782668150"
                   className="button is-light"
                 >
                   <span className="pr-1">I'm on Signal</span>

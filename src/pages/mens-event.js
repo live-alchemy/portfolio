@@ -1,5 +1,8 @@
 import React from "react";
+import { BsSignal } from "react-icons/bs";
+import { Link } from "gatsby";
 import mtns from "@images/mtns.jpg";
+import alex from "@images/alex.jpg";
 import Header from "@components/layout/Header";
 
 function Event() {
@@ -41,11 +44,14 @@ function Event() {
           </div>
         </div>
       </section>
-      <section className="hero is-medium" id="schedule">
+      <section
+        className="hero is-medium has-background-white-ter"
+        id="schedule"
+      >
         <div className="hero-body">
           <div className="container">
             <h2 className="title is-2">Schedule</h2>
-            <hr />
+            <hr className="has-background-black-bis" />
             <div className="columns">
               <div className="column">
                 <h4 className="title is-3">Friday</h4>
@@ -129,17 +135,17 @@ function Event() {
           </div>
         </div>
       </section>
-      <section className="hero is-medium">
+      <section className="hero is-primary is-medium has-text-black">
         <div className="hero-body">
           <div className="container">
-            <h2 className="title is-2" id="register">
+            <h2 className="title has-text-black is-2" id="register">
               Registration
             </h2>
-            <hr />
-            <p className="title is-4">
+            <hr className="has-background-black-bis" />
+            <p className="title has-text-black is-4">
               Secure your spot. This container will hold 8 men in total.
             </p>
-            <p className="title is-6">
+            <p className="title has-text-black is-6">
               Price covers venue rental, sauna use, accomodations and food
               basics.
             </p>
@@ -147,12 +153,16 @@ function Event() {
               Choose the pricing option that works for you. If money is not
               available, there are two seats that can be made available for
               those who want to assist in other ways, reach out:{" "}
-              <a href="mailto:live.alchemy@proton.me">live.alchemy@proton.me</a>
+              <a className="is-underlined" href="mailto:live.alchemy@proton.me">
+                live.alchemy@proton.me
+              </a>
             </p>
             <div className="columns py-4">
               <div className="column">
                 <div className="box has-text-centered py-5">
-                  <h4 className="title is-3">Ballin on a budget</h4>
+                  <h4 className="title is-3 has-text-black">
+                    Ballin on a budget
+                  </h4>
                   <a
                     href="https://buy.stripe.com/dR6aHhfO66bU34seUU"
                     target="_blank"
@@ -165,7 +175,7 @@ function Event() {
               </div>
               <div className="column">
                 <div className="box has-text-centered py-5">
-                  <h4 className="title is-3">The middle path</h4>
+                  <h4 className="title is-3 has-text-black">The middle path</h4>
                   <a
                     href="https://buy.stripe.com/6oEg1BeK21VE48wdQR"
                     target="_blank"
@@ -178,7 +188,7 @@ function Event() {
               </div>
               <div className="column">
                 <div className="box has-text-centered py-5">
-                  <h4 className="title is-3">Flex</h4>
+                  <h4 className="title is-3 has-text-black">Flex</h4>
                   <a
                     href="https://buy.stripe.com/dR63ePdFY6bUfRe28a"
                     target="_blank"
@@ -198,6 +208,65 @@ function Event() {
                     live.alchemy@proton.me
                   </a>
                 </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className="hero is-warning is-medium">
+        <div className="hero-body">
+          <div className="container">
+            <h2 className="title is-2" id="register">
+              Facilitator
+            </h2>
+            <hr className="has-background-black-bis" />
+            <div class="container">
+              <div class="columns is-multiline is-vcentered">
+                <div
+                  data-aos="fade-left"
+                  class="column is-10-mobile is-offset-1-mobile is-10-tablet is-offset-1-tablet is-4-desktop is-offset-1-desktop is-4-widescreen is-offset-1-widescreen is-4-fullhd is-offset-1-fullhd aos-init aos-animate"
+                >
+                  <figure class="image feather">
+                    <img
+                      class="is-rounded"
+                      alt="alex in the alpine"
+                      src={alex}
+                    />
+                  </figure>
+                </div>
+
+                <div
+                  data-aos="fade-down"
+                  class="column has-text-centered-touch is-12-mobile is-10-tablet is-offset-1-tablet is-5-desktop is-offset-1-desktop is-5-widescreen is-offset-1-widescreen is-5-fullhd is-offset-1-fullhd aos-init aos-animate"
+                >
+                  <h1 class="title is-3">Alex Folk</h1>
+                  <p class="is-size-4">
+                    Breathworker, martial artist, dreamer, practitioner and
+                    facilitator of men's work.
+                  </p>
+                  <p className="is-size-5 mt-1">
+                    A long time practitioner of Systema, yoga and Qi Gong, my
+                    mission is to share the healing power of men's work in
+                    conscious brotherhood to vitalize, awaken and activate the
+                    sacred masculine in each and every man.
+                  </p>
+                  <p className="is-size-6 mt-2">
+                    <Link to="/blog">
+                      <button class="button">Writings</button>
+                    </Link>
+                    <a
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      href="sgnl://signal.me/#p/+17782668150"
+                      className="button ml-2 is-info"
+                    >
+                      <span className="pr-1">Connect on Signal</span>
+                      <span className="icon">
+                        <BsSignal />
+                      </span>
+                    </a>
+                  </p>
+                </div>
               </div>
             </div>
           </div>
