@@ -27,8 +27,8 @@ export function Facilitator() {
               >
                 <h1 class="title is-3">Alex Folk</h1>
                 <p class="is-size-4">
-                  Breathworker, martial artist, dreamer, practitioner and
-                  facilitator of men's work.
+                  Breathworker, martial artist, dreamer, practitioner and men's
+                  work facilitator.
                 </p>
                 <p className="is-size-5 mt-1">
                   A long time practitioner of Systema, yoga and Qi Gong, my

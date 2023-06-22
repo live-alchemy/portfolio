@@ -28,6 +28,7 @@ export function Register() {
           <div className="columns py-4">
             <div className="column">
               <div className="box has-text-centered py-5">
+                <p className="is-size-3 mb-1">🏀</p>
                 <h4 className="title is-3 has-text-black">
                   Ballin on a budget
                 </h4>
@@ -44,6 +45,7 @@ export function Register() {
             </div>
             <div className="column">
               <div className="box has-text-centered py-5">
+                <p className="is-size-3 mb-1">🧘‍♂️</p>
                 <h4 className="title is-3 has-text-black">The middle path</h4>
                 <hr />
                 <a
@@ -58,6 +60,7 @@ export function Register() {
             </div>
             <div className="column">
               <div className="box has-text-centered py-5">
+                <p className="is-size-3 mb-1">💪</p>
                 <h4 className="title is-3 has-text-black">Flex</h4>
                 <hr />
                 <a

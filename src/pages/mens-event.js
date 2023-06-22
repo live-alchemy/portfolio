@@ -3,10 +3,11 @@ import mtns from "@images/mtns.jpg";
 import Header from "@components/layout/Header";
 import {
   Why,
-  Register,
-  Location,
-  Facilitator,
+  Benefits,
   Schedule,
+  Facilitator,
+  Location,
+  Register,
 } from "@components/mens-event/section";
 
 function Event() {
@@ -57,6 +58,7 @@ function Event() {
         </div>
       </section>
       <Why />
+      <Benefits />
       <Schedule />
       <Facilitator />
       <Location />
