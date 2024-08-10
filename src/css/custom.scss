@@ -167,3 +167,15 @@ span.gatsby-resp-image-wrapper + em {
   text-align: center;
   padding-top: 5px;
 }
+
+div.bats {
+  display: flex;
+  flex-direction: column;
+  @media (min-width: 768px) {
+    flex-direction: row;
+    img {
+      width: 50%;
+      flex-grow: 1;
+    }
+  }
+}

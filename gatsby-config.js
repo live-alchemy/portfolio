@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Live Alchemy :: real time transformation",
+    title: "::Live Alchemy::",
     description:
       "Live Alchemy: A blog for modern seekers and adventurers, students of tarot, technology innovators and contemporary spiritual warriors.",
-    tagLine: "Free your mind",
+    tagLine: "A space for Alex on the web",
     author: "live-alchemy",
     url: `https://livealchemy.xyz`,
     keywords: [

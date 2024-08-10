@@ -1,17 +1,17 @@
 ---
-path: '/portfolio/presta'
-date: '2019-02-28'
-title: 'PoCake for Presta Coffee'
-subtitle: 'React powered progressive web app for online ordering'
-subject: 'Custom development'
-class: 'work'
-excerpt: 'A PWA for online ordering at a fabulous coffee roaster in Tucson AZ'
-author: 'live alchemy'
-image: './presta-sq.png'
+path: "/portfolio/presta"
+date: "2019-02-28"
+title: "PoCake for Presta Coffee"
+subtitle: "React powered progressive web app for online ordering"
+subject: "Custom development"
+class: "work"
+excerpt: "A PWA for online ordering at a fabulous coffee roaster in Tucson AZ"
+author: "live alchemy"
+image: "./presta-sq.png"
+cover: "./presta-sq.png"
 ---
-### Online ordering as a Progressive Web App for Presta Coffee roasters
 
-###### Click the image to see it on youtube
+### Online ordering as a Progressive Web App for Presta Coffee roasters
 
 An iteration on the concept that came out of our visit Salt & Straw in Venice. This time for a coffee roaster in Tucson Arizona. I was at their Mercado plaza location, sitting in the courtyard with a friend about to do some reading in preparation for a discussion we were attending that night. Naturally, we wanted some cold brew as it was both nice out and a featured item on Presta's seasonal menu. I volunteered to get our drinks (big mistake! apparently) and found myself waiting in line for at least 10 minutes before the lone barista could pour out two cold brews for me.
 
